@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-08T09:19:26 IST" name="Default suite" finished-at="2024-03-08T09:19:31 IST" duration-ms="4570">
+    <groups>
+    </groups>
+    <test started-at="2024-03-08T09:19:26 IST" name="Default test" finished-at="2024-03-08T09:19:31 IST" duration-ms="4570">
+      <class name="testngpkg.ExtentedReports">
+        <test-method is-config="true" signature="beftest()[pri:0, instance:testngpkg.ExtentedReports@5824a83d]" started-at="2024-03-08T09:19:26 IST" name="beftest" finished-at="2024-03-08T09:19:29 IST" duration-ms="2122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beftest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testngpkg.ExtentedReports@5824a83d]" started-at="2024-03-08T09:19:29 IST" name="setUp" finished-at="2024-03-08T09:19:31 IST" duration-ms="1994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="fbTitleVerifiication()[pri:0, instance:testngpkg.ExtentedReports@5824a83d]" started-at="2024-03-08T09:19:31 IST" name="fbTitleVerifiication" finished-at="2024-03-08T09:19:31 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbTitleVerifiication -->
+        <test-method is-config="true" signature="broswerclose(org.testng.ITestResult)[pri:0, instance:testngpkg.ExtentedReports@5824a83d]" started-at="2024-03-08T09:19:31 IST" name="broswerclose" finished-at="2024-03-08T09:19:31 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fbTitleVerifiication status=SUCCESS method=ExtentedReports.fbTitleVerifiication()[pri:0, instance:testngpkg.ExtentedReports@5824a83d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- broswerclose -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngpkg.ExtentedReports@5824a83d]" started-at="2024-03-08T09:19:31 IST" name="tearDown" finished-at="2024-03-08T09:19:31 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngpkg.ExtentedReports -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
